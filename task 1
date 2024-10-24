@@ -1,0 +1,27 @@
+/*Name: Shubham Patil
+UIN:241P051
+Title:WAP to print your name,age,class,division and UIN on the screen. Use escape sequences to properly format the output. Experiment 1, task 1
+Roll Number:47*/
+#include<stdio.h>
+
+
+int main()
+{
+  printf("Name\t\t:\t shubham patil\n");
+  printf("Age\t\t\t:\t19\n");
+  printf("Class\t:\tFirst Year\n");
+  printf("Div\t\t\t:\tC3\n");
+  printf("UIN\t\t\t:\t241P051\n");
+
+
+  return 0;
+}
+output :
+ Name                   :        Shubham patil
+Age                     :       19
+Class                   :       First Year
+Div                     :       C3
+UIN                     :       241P051
+
+Process returned 0 (0x0)   execution time : 0.057 s
+Press any key to continue.
