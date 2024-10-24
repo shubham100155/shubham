@@ -1,0 +1,30 @@
+/*Name: shubham patil
+UIN:241P05
+Title:WAP to find if entered number is even or odd
+Roll Number:47*/
+#include<stdio.h>
+
+
+int main()
+{
+    int n;
+    printf("Enter the numbers");
+    scanf("%d",&n);
+    if(n%2==0)
+    {
+        printf("the number %d is even.\n",n);
+
+    }
+    else
+    {
+
+     printf("the number %d is odd.,\n",n);
+    }
+     return 0;
+}
+output: 
+Enter the numbers 66
+the number 66 is even.
+
+Process returned 0 (0x0)   execution time : 2.778 s
+Press any key to continue.
